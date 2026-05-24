@@ -7,3 +7,4 @@ List of the hash (SHA-256) of my drawing :
 * UwUduino : ca1b0853c2bfc6752c16e16a2682083317ecdb533bb5da7bf3088a6044bffdbe
 * Dumpster : a0d5e21ad861c50a4c02ae1ae9758908dce01a9fb10c45ec2d898102becdc644
 * Happy UwU : 57c510934ee49270c2e320e964460cb0abc651eb9301d59e82fde250df7b44c0
+* L'école : 53dc50ac04828d81980f1020b6e324451a8664c59dab2efc5ae6b9c6f8084327
